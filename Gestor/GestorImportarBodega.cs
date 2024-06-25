@@ -45,12 +45,12 @@ namespace PPAI_CU_5.Gestor
             this.maridajes.AddRange(maridajes);
         }
         //lista de bodegas a actualizar
-        public List<Bodega> opcionImportarActualizacionVinos()
+        public List<Bodega> opcionImportarActualizacionVinos(int diasActualizar)
         {
             DateTime fechaActual = DateTime.Now;
             foreach (var bodega in bodegas)
             {
-                if ((bodega.getPeriodoActualizacion() - fechaActual).TotalDays < 60)
+                if ((bodega.getPeriodoActualizacion() - fechaActual).TotalDays < diasActualizar)
                 {
                     bodegasActualizar.Add(bodega);
                 }

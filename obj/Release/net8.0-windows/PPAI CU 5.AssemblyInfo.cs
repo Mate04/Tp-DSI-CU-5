@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPAI CU 5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cca79ead39a647edd051d4e46f3c0fb272de97db")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPAI CU 5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPAI CU 5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

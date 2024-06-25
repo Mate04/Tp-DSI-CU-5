@@ -37,7 +37,8 @@ namespace PPAI_CU_5.Ventana
         private void mostrarPantalla()
         {
             button1.Hide();
-            vinosActualizar = this.gestor.opcionImportarActualizacionVinos();
+            //aca defino la fecha de periocidad
+            vinosActualizar = this.gestor.opcionImportarActualizacionVinos(60);
             for (int i = 0; i < vinosActualizar.Count; i++) { Grid.Rows.Add(i + 1, vinosActualizar[i].getNombre()); }
             Grid.Show();
             tomarSeleccion.Show();

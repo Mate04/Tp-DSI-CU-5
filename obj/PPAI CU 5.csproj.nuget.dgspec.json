@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Mateo\\Progrmador\\avril\\PPAI CU 5\\PPAI CU 5.csproj": {}
+    "C:\\Users\\matus\\Desktop\\work\\avril\\PPAI CU 5.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Mateo\\Progrmador\\avril\\PPAI CU 5\\PPAI CU 5.csproj": {
+    "C:\\Users\\matus\\Desktop\\work\\avril\\PPAI CU 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Mateo\\Progrmador\\avril\\PPAI CU 5\\PPAI CU 5.csproj",
+        "projectUniqueName": "C:\\Users\\matus\\Desktop\\work\\avril\\PPAI CU 5.csproj",
         "projectName": "PPAI CU 5",
-        "projectPath": "D:\\Usuarios\\Mateo\\Progrmador\\avril\\PPAI CU 5\\PPAI CU 5.csproj",
-        "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Mateo\\Progrmador\\avril\\PPAI CU 5\\obj\\",
+        "projectPath": "C:\\Users\\matus\\Desktop\\work\\avril\\PPAI CU 5.csproj",
+        "packagesPath": "C:\\Users\\matus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matus\\Desktop\\work\\avril\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
