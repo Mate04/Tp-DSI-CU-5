@@ -1,0 +1,24 @@
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\PPAI CU 5.exe
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\PPAI CU 5.deps.json
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\PPAI CU 5.runtimeconfig.json
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\PPAI CU 5.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\PPAI CU 5.pdb
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.csproj.GenerateResource.cache
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.AssemblyInfoInputs.cache
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.AssemblyInfo.cs
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.csproj.CoreCompileInputs.cache
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\refint\PPAI CU 5.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.pdb
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.genruntimeconfig.cache
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\ref\PPAI CU 5.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\System.Management.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.csproj.AssemblyReference.cache
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.csproj.Up2Date
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI_CU_5.Ventana.VentanaImportarBodega.resources
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI_CU_5.Ventana.ResumenActualizacion.resources
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
