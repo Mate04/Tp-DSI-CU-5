@@ -71,7 +71,8 @@ namespace PPAI_CU_5.Gestor
             List<Vino> vinosBodegaSeleccionada = this.vinos.Where(v => v.getBodega().Equals(bodegaSeleccionada.getNombre(), StringComparison.OrdinalIgnoreCase)).ToList();
             List<VinoInfo> bodegaActualizada = await this.obtenerActualizacionVinoBodega(nombreBodega);
             List<VinoAccion> Acciones = new List<VinoAccion>();
-
+            Dictionary<string,Vino> vinosAccion = new Dictionary<string,Vino>();
+            //aca hacer que se encargue la bodega
             foreach (var vinoActualizado in bodegaActualizada)
             {
                 bool banderaActualizado = false;
@@ -82,6 +83,7 @@ namespace PPAI_CU_5.Gestor
                     {
                         // Si los vinos son iguales según la bodega y el nombre de la etiqueta, realiza alguna acción
                         bodegaSeleccionada.actualizarVino(vinoSeleccionado, vinoActualizado);
+                        vinosAccion["actualizado"] = vinoSeleccionado;
                         var accion = new VinoAccion(vinoSeleccionado.getNombre(), "actualizado");
                         Acciones.Add(accion);
                         banderaActualizado = true;

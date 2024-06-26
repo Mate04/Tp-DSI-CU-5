@@ -47,3 +47,4 @@ C:\Users\matus\Desktop\work\avril\obj\Debug\net8.0-windows\refint\PPAI CU 5.dll
 C:\Users\matus\Desktop\work\avril\obj\Debug\net8.0-windows\PPAI CU 5.pdb
 C:\Users\matus\Desktop\work\avril\obj\Debug\net8.0-windows\PPAI CU 5.genruntimeconfig.cache
 C:\Users\matus\Desktop\work\avril\obj\Debug\net8.0-windows\ref\PPAI CU 5.dll
+D:\Usuarios\Mateo\Progrmador\avril\PPAI CU 5\obj\Debug\net8.0-windows\PPAI CU 5.sourcelink.json
