@@ -12,7 +12,7 @@ namespace PPAI_CU_5.Entidades
     {
         public string Apellido { get; set; }
         public string Nombre { get; set; }
-        private List<Siguiend> Siguiendo { get; set; }
+        private List<Siguiendo> Siguiendo { get; set; }
 
         public Enofilo(string apellido, string imagenPerfil, string nombre)
         {
@@ -28,6 +28,13 @@ namespace PPAI_CU_5.Entidades
         public List<Siguiendo> ObtenerSiguiendo()
         {
             return Siguiendo;
+        }
+        public void seguisAbodega(Bodega bodega)
+        {
+            foreach(var siguiendo in Siguiendo)
+            {
+                siguiendo.sosBodega(bodega);
+            }
         }
     }
 }

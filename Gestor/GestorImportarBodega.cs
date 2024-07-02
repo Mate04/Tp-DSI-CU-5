@@ -11,7 +11,7 @@ namespace PPAI_CU_5.Gestor
 
     public class GestorImortarBodega
     {
-
+        List<Enofilo> enofilos;
         Ventana.VentanaImportarBodega ventana;
         List<Vino> vinos;
         List<TipoUva> tiposUvas;
@@ -27,6 +27,7 @@ namespace PPAI_CU_5.Gestor
             this.vinos = new List<Vino>();
             this.tiposUvas = new List<TipoUva>();
             this.maridajes = new List<Maridaje>();
+            this.enofilos= new List<Enofilo>();
         }
         public void bodegasActualizadas(List <Bodega> listaActualizada)
         {
@@ -70,17 +71,22 @@ namespace PPAI_CU_5.Gestor
 
             List<Vino> vinosBodegaSeleccionada = this.vinos.Where(v => v.getBodega().Equals(bodegaSeleccionada.getNombre(), StringComparison.OrdinalIgnoreCase)).ToList();
             List<VinoInfo> bodegaActualizada = await this.obtenerActualizacionVinoBodega(nombreBodega);
-            
-
+            //aca se envia la informacion a los enofilos
+            this.buscarSeguidorBodega(bodegaSeleccionada);
+            //aca se muestra en la interfaz
             return bodegaSeleccionada.actualizarVinos(vinosBodegaSeleccionada, bodegaActualizada);
         }
         public async Task<List<VinoInfo>> obtenerActualizacionVinoBodega(string nombreBodega)
         {
             return await Interfacez.InterfazApiBodega.ObtenerVinosDeBodegaSeleccionada(nombreBodega);
         }
-        public void buscarSeguidorBodega(bodegaSeleccionada)
+        public void buscarSeguidorBodega(Bodega bodegaSeleccionada)
         {
-
+            foreach(var enofilo in this.enofilos)
+            {
+                //pregunta a cada enofilo de base de datos si sigue a bodega
+                enofilo.seguisAbodega(bodegaSeleccionada);
+            }
         } 
         
     }

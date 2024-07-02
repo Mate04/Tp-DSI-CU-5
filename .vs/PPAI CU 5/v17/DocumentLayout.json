@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matus\\Desktop\\work\\avril\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\ventana\\ventanaimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:ventana\\ventanaimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\interfacez\\interfazapibodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:interfacez\\interfazapibodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\interfacez\\vinoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:interfacez\\vinoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\interfacez\\vinoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:interfacez\\vinoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\ventana\\ventanaimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:ventana\\ventanaimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\gestor\\gestorimortarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:gestor\\gestorimortarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\basededatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:basededatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\gestor\\gestorimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:gestor\\gestorimportarbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\ventana\\resumenactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:ventana\\resumenactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\entidades\\enofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:entidades\\enofilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\entidades\\tipodeuva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:entidades\\tipodeuva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|C:\\Users\\matus\\Desktop\\work\\avril\\entidades\\varietal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:entidades\\varietal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|c:\\users\\matus\\desktop\\work\\avril\\entidades\\siguiendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2635AA7D-8197-4A05-BC83-87196D06917A}|PPAI CU 5.csproj|solutionrelative:entidades\\siguiendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,96 +44,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VinoAccion.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\VinoAccion.cs",
-              "RelativeDocumentMoniker": "Interfacez\\VinoAccion.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\VinoAccion.cs",
-              "RelativeToolTip": "Interfacez\\VinoAccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Siguiendo.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Siguiendo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Siguiendo.cs",
+              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Siguiendo.cs",
+              "RelativeToolTip": "Entidades\\Siguiendo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:50:49.98Z",
+              "WhenOpened": "2024-07-02T15:53:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enofilo.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Enofilo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Enofilo.cs",
+              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Enofilo.cs",
+              "RelativeToolTip": "Entidades\\Enofilo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:51:33.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InterfazApiBodega.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\InterfazApiBodega.cs",
-              "RelativeDocumentMoniker": "Interfacez\\InterfazApiBodega.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\InterfazApiBodega.cs",
-              "RelativeToolTip": "Interfacez\\InterfazApiBodega.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "GestorImportarBodega.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Gestor\\GestorImportarBodega.cs",
+              "RelativeDocumentMoniker": "Gestor\\GestorImportarBodega.cs",
+              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Gestor\\GestorImportarBodega.cs",
+              "RelativeToolTip": "Gestor\\GestorImportarBodega.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:45:27.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VentanaImportarBodega.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\VentanaImportarBodega.cs",
-              "RelativeDocumentMoniker": "Ventana\\VentanaImportarBodega.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\VentanaImportarBodega.cs",
-              "RelativeToolTip": "Ventana\\VentanaImportarBodega.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCgAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:43:30.538Z",
+              "WhenOpened": "2024-07-02T15:46:34.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentanaImportarBodega.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\VentanaImportarBodega.cs",
-              "RelativeDocumentMoniker": "Ventana\\VentanaImportarBodega.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\VentanaImportarBodega.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ventana\\VentanaImportarBodega.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:42:19.857Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GestorImortarBodega.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Gestor\\GestorImortarBodega.cs",
-              "RelativeDocumentMoniker": "Gestor\\GestorImortarBodega.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Gestor\\GestorImortarBodega.cs",
-              "RelativeToolTip": "Gestor\\GestorImortarBodega.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAlwDQAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T04:49:07.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VinoInfo.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\VinoInfo.cs",
-              "RelativeDocumentMoniker": "Interfacez\\VinoInfo.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Interfacez\\VinoInfo.cs",
-              "RelativeToolTip": "Interfacez\\VinoInfo.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowDoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:54:13.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TipoDeUva.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\TipoDeUva.cs",
-              "RelativeDocumentMoniker": "Entidades\\TipoDeUva.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\TipoDeUva.cs",
-              "RelativeToolTip": "Entidades\\TipoDeUva.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowBMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:23:08.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -171,43 +93,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T14:43:23.53Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DATOS.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\BaseDeDatos\\DATOS.cs",
-              "RelativeDocumentMoniker": "BaseDeDatos\\DATOS.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\BaseDeDatos\\DATOS.cs",
-              "RelativeToolTip": "BaseDeDatos\\DATOS.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T05:58:16.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Varietal.cs",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Varietal.cs",
-              "RelativeDocumentMoniker": "Entidades\\Varietal.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Entidades\\Varietal.cs",
-              "RelativeToolTip": "Entidades\\Varietal.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:23:24.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResumenActualizacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\ResumenActualizacion.cs",
-              "RelativeDocumentMoniker": "Ventana\\ResumenActualizacion.cs",
-              "ToolTip": "C:\\Users\\matus\\Desktop\\work\\avril\\Ventana\\ResumenActualizacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ventana\\ResumenActualizacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:18:07.973Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

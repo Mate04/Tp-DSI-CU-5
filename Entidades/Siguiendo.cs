@@ -10,7 +10,7 @@ namespace PPAI_CU_5.Entidades
     {
         public DateTime FechaFin { get; }
         public DateTime FechaInicio { get; }
-        public Bodega bodega { get; }
+        public Bodega bodega;
         public Siguiendo(DateTime FechaInicio, DateTime FechaFin, Bodega bodega)
         {
             this.FechaFin = FechaFin;
@@ -22,5 +22,11 @@ namespace PPAI_CU_5.Entidades
     {
         return this.bodega
     }
-
+    public void sosDeBodega(Bodega bodega)
+    {
+        if (this.bodega == bodega)
+        {
+            Console.WriteLine("notificar a usuario");
+        }
+    }
 }

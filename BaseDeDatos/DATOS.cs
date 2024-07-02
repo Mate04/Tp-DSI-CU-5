@@ -11,9 +11,11 @@ namespace PPAI_CU_5.BaseDeDatos
         {
         
         Gestor.GestorImortarBodega gestor;
+        List<Entidades.Enofilo> enofilos;
         public DATOS(Gestor.GestorImortarBodega gestor)
         {
             this.gestor = gestor;
+            enofilos = new List<Enofilo>();
         }
 
 
@@ -67,9 +69,16 @@ namespace PPAI_CU_5.BaseDeDatos
 
             // Actualizar bodegas en el gestor
             gestor.bodegasActualizadas(listaBodegas);
-
-
-
+            Enofilo enofilo1 = new Enofilo("Perez", "Juan Perez");
+            Enofilo enofilo2 = new Enofilo("Garcia", "Maria Garcia");
+            Siguiendo siguiendo1 = new Siguiendo(new DateTime(2021, 1, 1), new DateTime(2022, 1, 1), bodega1);
+            Siguiendo siguiendo2 = new Siguiendo(new DateTime(2020, 6, 15), new DateTime(2021, 6, 15), bodega2);
+            Siguiendo siguiendo3 = new Siguiendo(new DateTime(2022, 3, 20), new DateTime(2023, 3, 20), bodega1);
+            enofilo1.AgregarSiguiendo(siguiendo1);
+            enofilo1.AgregarSiguiendo(siguiendo2);
+            enofilo2.AgregarSiguiendo(siguiendo3);
+            this.enofilos.Add(enofilo1);
+            this.enofilos.Add(enofilo2);
         }
     }
 }
