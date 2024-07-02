@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Entidades",
+    "\\BaseDeDatos",
     "\\Gestor",
     "\\Interfacez",
     "\\Ventana"
   ],
-  "SelectedNode": "\\Ventana\\VentanaImportarBodega.resx",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

@@ -45,6 +45,43 @@ namespace PPAI_CU_5.Entidades
             vino.setNotaCata(vinoActualizar.NotaDeCataBodega);
             vino.setFechaActualizacion();
         } 
+        public List<VinoAccion> actualizarVinos(List<Vino> vinosBodegaSeleccionada, List<VinoInfo> bodegaActualizada)
+        {
+            List<VinoAccion> Acciones = new List<VinoAccion>();
+            foreach (var vinoActualizado in bodegaActualizada)
+            {
+                bool banderaActualizado = false;
+
+                foreach (var vinoSeleccionado in vinosBodegaSeleccionada)
+                {
+                    if (vinoSeleccionado.getNombre().Equals(vinoActualizado.getNombre(), StringComparison.OrdinalIgnoreCase))
+                    {
+                        // Si los vinos son iguales según la bodega y el nombre de la etiqueta, realiza alguna acción
+                        bodegaSeleccionada.actualizarVino(vinoSeleccionado, vinoActualizado);
+                        var accion = new VinoAccion(vinoSeleccionado.getNombre(), "actualizado");
+                        Acciones.Add(accion);
+                        banderaActualizado = true;
+                        break;
+                    }
+                }
+
+                // Si no se encontró un vino actualizado, se crea uno nuevo
+                if (!banderaActualizado)
+                {
+                    string tipoUvaFound = vinoActualizado.getTipoUva()[0];
+                    // buscame el tipo de uva en esta lista de tipos de uva
+                    var tipoUva = this.tiposUvas.FirstOrDefault(t => t.getNombre().Equals(tipoUvaFound, StringComparison.OrdinalIgnoreCase));
+                    // lo mismo pero con maridajes
+                    string nombreMaridaje = vinoActualizado.getMaridajes()[0];
+                    var maridaje = this.maridajes.FirstOrDefault(m => m.getNombre().Equals(nombreMaridaje, StringComparison.OrdinalIgnoreCase));
+
+                    //new Vino(DateTime.Now, vinoActualizado.getNombre(), bodegaSeleccionada);
+                    var accion = new VinoAccion(vinoActualizado.getNombre(), "Creado");
+                    Acciones.Add(accion);
+                }
+            }
+            return Acciones;
+        }
 
     }
 }
